@@ -1,0 +1,5 @@
+LIBRARY	"DLL_Server_Ordinal"
+EXPORTS
+      SumOfTwoIntegers @500
+      SubtractionOfTwoIntegers @501
+      

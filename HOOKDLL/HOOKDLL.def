@@ -1,0 +1,3 @@
+LIBRARY HOOKDLL
+	EXPORTS
+		m_CloseHandle
