@@ -1,0 +1,4 @@
+LIBRARY NotepadDll
+	EXPORTS
+		Function
+		keyboardHookProc
